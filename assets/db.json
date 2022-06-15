@@ -49,6 +49,12 @@
       "nombre": "Aioria",
       "constelacion": "Leo",
       "id": 10
+    },
+    {
+      "nombre": "piter",
+      "constelacion": "cartagena",
+      "armadura": "madera",
+      "id": 11
     }
   ],
   "dioses": [
