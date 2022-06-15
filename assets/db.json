@@ -3,12 +3,14 @@
     {
       "nombre": "Seiya",
       "constelacion": "Pegaso",
+      "armadura": "Bronce",
       "id": 1
     },
     {
-      "id": 2,
-      "nombre": "Shiryu",
-      "constelacion": "Dragón"
+      "nombre": "Alejandro",
+      "constelacion": "Caracas",
+      "armadura": "Palma",
+      "id": 2
     },
     {
       "id": 3,
@@ -16,9 +18,10 @@
       "constelacion": "Cisne"
     },
     {
-      "id": 4,
       "nombre": "Shun",
-      "constelacion": "Andrómeda"
+      "constelacion": "Andrómeda",
+      "armadura": "Bronce",
+      "id": 4
     },
     {
       "id": 5,
@@ -38,17 +41,26 @@
     {
       "nombre": "Saga",
       "constelacion": "Gémini",
+      "armadura": "Oro",
       "id": 8
     },
     {
       "nombre": "Máscara de muerte",
       "constelacion": "Cancer",
+      "armadura": "Oro",
       "id": 9
     },
     {
       "nombre": "Aioria",
       "constelacion": "Leo",
+      "armadura": "Oro",
       "id": 10
+    },
+    {
+      "nombre": "Piter",
+      "constelacion": "Cartagena",
+      "armadura": "Madera",
+      "id": 11
     }
   ],
   "dioses": [
