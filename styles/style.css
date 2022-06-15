@@ -1,29 +1,28 @@
-/*table {
-    border-collapse: collapse;
+form{
+    margin: 0 auto;
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.field{
+    border: solid 2px #ccc;
+    margin: 5px;
+    padding: 7px;
+    width: 90%;
+}
+
+input{
     width: 100%;
-    border: 1px solid #000;
+}
+
+
+h1, h2{
     text-align: center;
+    padding: 0%;
 }
 
-th,td {
-    width: 25%;
-    text-align: center;
-    vertical-align: top;
-    border: 1px solid #000;
-    border-collapse: collapse;
-    padding: 0.3em;
-    caption-side: bottom;
-}
-
-caption {
-    padding: 0.3em;
-    color: #fff;
-    background: #000;
-}
-
-th {
-    background: rgb(55, 38, 203);
-}*/
 body{
     align-content: center;
     background-color: #632432;

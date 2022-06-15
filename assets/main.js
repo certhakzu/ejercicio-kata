@@ -123,7 +123,7 @@ const d = document,
                         if (!res.ok) throw { status: res.status, statusText: res.statusText };
 
                         location.reload();
-                        
+
                     } catch (err) {
                         let message = err.statusText || "Ocurrió un error";
                         alert(`Error ${err.status}: ${message}`);
