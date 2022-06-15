@@ -132,7 +132,8 @@
                             },
                             body: JSON.stringify({
                                 nombre: e.target.nombre.value,
-                                constelacion: e.target.constelacion.value
+                                constelacion: e.target.constelacion.value,
+                                armadura: e.target.armadura.value
                             })
                         },
                             response = await fetch(`http://localhost:3000/santos/${e.target.id.value}`, options),
